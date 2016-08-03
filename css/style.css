@@ -1,15 +1,6 @@
-h2.intro {
+.intro {
   font-family: sans-serif;
-  color: #3355ee
-}
-
-p.intro{
-  color: red;
+  color: #3355ee;
   font-family: fantasy;
   background-color: #943d4d
-}
-img.intro{
-  border-radius: 75px;
-  border-spacing: 20px;
-  float: left;
 }
