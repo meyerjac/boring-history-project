@@ -1,6 +1,16 @@
-.intro {
+html {
   font-family: sans-serif;
-  color: #3355ee;
-  font-family: fantasy;
-  background-color: #943d4d
+}
+
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable1 {
+  background-color: green;
+}
+
+.clickable2 {
+  border: solid 3px black;
 }
